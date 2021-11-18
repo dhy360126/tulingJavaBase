@@ -1,7 +1,7 @@
 package javaFirstPart.javaBase;
 
 import java.util.Scanner;
-
+//
 public class DataStructorWork2 {
     public static void main(String[] args) {
        // scannerAdd();
